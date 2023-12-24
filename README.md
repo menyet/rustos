@@ -1,1 +1,1 @@
-# rustos
+cargo build --target x86_64-os.json
